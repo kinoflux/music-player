@@ -1,6 +1,6 @@
 <div align="center">
 
-![Kinoflix Music Player](./images/logo_nobg.png)
+<img src="./images/logo_nobg.png" alt="Kinoflix Music Player" width="120" height="120">
 
 # 🎵 **Kinoflix Music Player**
 
