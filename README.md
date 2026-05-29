@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./images/logo_nobg.png" alt="Kinoflix Music Player" width="120" height="120">
+<img src="./images/logo_nobg.png" alt="Kinofuix Music Player" width="120" height="120">
 
-# 🎵 **Kinoflix Music Player**
+# 🎵 **Kinoflux Music Player**
 
 **Your Personal Music Sanctuary – Private, Powerful, and Perfectly Yours**
 
@@ -15,7 +15,7 @@ A modern desktop music player for audiophiles who value **privacy**, **quality**
 
 ---
 
-## ✨ **Why Kinoflix?**
+## ✨ **Why Kinoflux?**
 
 | Feature                       | Description                                                                     |
 | ----------------------------- | ------------------------------------------------------------------------------- |
@@ -41,7 +41,7 @@ A modern desktop music player for audiophiles who value **privacy**, **quality**
 - **Advanced Audio**: Click ⚙️ gear icon for speed/pitch controls
 - **Sort**: Click column headers (Title, Artist, Album, Time, Size)
 
-![Kinoflix Interface](./images/interface.png)
+![Kinoflux Interface](./images/interface.png)
 
 ---
 
@@ -119,7 +119,7 @@ A: Never. Read-only access.
 
 ## � **License**
 
-Kinoflix Music Player is **closed-source** proprietary software. See the [LICENSE](./LICENSE) file for complete terms and conditions.
+Kinoflux Music Player is **closed-source** proprietary software. See the [LICENSE](./LICENSE) file for complete terms and conditions.
 
 **Key Points:**
 
